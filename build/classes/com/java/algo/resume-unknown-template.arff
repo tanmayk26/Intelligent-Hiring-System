@@ -1,0 +1,11 @@
+@RELATION resume
+
+@ATTRIBUTE gender  {male,female}
+@ATTRIBUTE workexp   {0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20}
+@ATTRIBUTE qualification  {be,me,mca,ms,bsc}
+@ATTRIBUTE technology	 {mysql,cloud,oracle,client,css,c++,c#,database,freebsd,ftp,html,http,java,javascript,j#,linux,mac,os,android,sdk,sql,c,php,ruby,,ios,asp.net,ajax,python,perl,,xml,aws}
+@ATTRIBUTE university {pune,kolhapur,aurangabad,jalgaon,nagpur,mumbai}
+@ATTRIBUTE rating   {1,2,3,4,5}
+
+@DATA
+
